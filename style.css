@@ -14,7 +14,9 @@ h2 {
 
 .selector {
     color: blue;
-}#selector {
+}
+
+#selector {
     color: blueviolet;
 }
 
@@ -32,8 +34,6 @@ div>ul {
 }
 ul+p {
     color: grey;
-}
-
 }
 
 li+a {
