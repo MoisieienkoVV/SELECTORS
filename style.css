@@ -1,0 +1,13 @@
+h1 {
+    color: coral;
+    font-size: 30px;
+}
+
+p {
+    color: darkgreen;
+    font-size: 15px;
+}
+
+.type {
+    color: indigo;
+}
