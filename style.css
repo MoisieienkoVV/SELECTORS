@@ -1,5 +1,5 @@
 h1 {
-    color: coral;
+    color: black;
     font-size: 30px;
 }
 
@@ -8,6 +8,50 @@ p {
     font-size: 15px;
 }
 
-.type {
-    color: indigo;
+h2 {
+    color: red;
 }
+
+.selector {
+    color: blue;
+}#selector {
+    color: blueviolet;
+}
+
+.selector.big {
+    color: yellow;
+}
+
+div p {
+    color: brown;
+    font-size: medium;
+}
+
+div>ul {
+    color: cyan;
+}
+ul+p {
+    color: grey;
+}
+
+}
+
+li+a {
+    color: crimson;
+}
+
+#sel.sel {
+    color: fuchsia;
+}
+#ttl.ttl.big {
+    color: gold;
+}
+
+h3.sel.small {
+    color: pink;
+}
+
+[target] {
+    color: purple;
+}
+
